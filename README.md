@@ -33,3 +33,9 @@
 1. git, github에 대한 기본적인 사용 능력
 2. Markdown 작성 능력 - 참고: https://guides.github.com/features/mastering-markdown
 3. Python3, C, C++ 중 하나 이상에 대해서 구사할 수 있는 능력
+
+## 기타
+
+- 스터디 관련 건의 사항은 [issue](https://github.com/algorithm-011/notice)에 자유롭게 올린다. (개인적으로 연락하고 싶은 것이 있다면 주최자인 [punkyoon](https://github.com/punkyoon)에게 메일을..)
+
+- 알고리즘, 자료구조, 문제풀이 각각에 대해서 질문이 있다면 각 repository의 issue에 올린다.
