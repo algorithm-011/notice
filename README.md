@@ -39,3 +39,5 @@
 - 스터디 관련 건의 사항은 [issue](https://github.com/algorithm-011/notice)에 자유롭게 올린다. (개인적으로 연락하고 싶은 것이 있다면 주최자인 [punkyoon](https://github.com/punkyoon)에게 메일을..)
 
 - 알고리즘, 자료구조, 문제풀이 각각에 대해서 질문이 있다면 각 repository의 issue에 올린다.
+
+- 각 스터디별 공지사항과 매주 주제선정 관련 토의는 github organization team 메뉴에 들어가서 확인한다.
