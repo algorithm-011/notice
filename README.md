@@ -1,4 +1,4 @@
-![logo](https://github.com/algorithm-011/notice/blob/master/algo011.JPG)
+![logo](https://github.com/algorithm-011/notice/blob/master/logo.PNG)
 
 # NOTICE
 
