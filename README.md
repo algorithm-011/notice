@@ -1,3 +1,5 @@
+![logo](https://github.com/algorithm-011/notice/blob/master/algo011.JPG)
+
 # NOTICE
 
 ## 소개
